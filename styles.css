@@ -1,0 +1,15 @@
+body {
+    color:rgb(242, 226, 247);
+    background: black;
+}
+header {
+    border-bottom:solid 2px rgb(159, 68, 215);
+    color: rgb(159, 68, 215);
+}
+p {
+    color: rgb(159, 68, 215);
+}
+
+    section{
+        background: rgb(213, 152, 221)
+    }
